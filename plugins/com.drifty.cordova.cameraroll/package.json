@@ -1,0 +1,84 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-camera-roll",
+        "scope": null,
+        "escapedName": "cordova-camera-roll",
+        "name": "cordova-camera-roll",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/gabrielmonteiro/Documents/apps/myApp"
+    ]
+  ],
+  "_from": "cordova-camera-roll@latest",
+  "_id": "cordova-camera-roll@0.2.1",
+  "_inCache": true,
+  "_location": "/cordova-camera-roll",
+  "_nodeVersion": "0.12.3",
+  "_npmUser": {
+    "name": "lotterfriends",
+    "email": "npm@lotterfriends.net"
+  },
+  "_npmVersion": "2.9.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-camera-roll",
+    "scope": null,
+    "escapedName": "cordova-camera-roll",
+    "name": "cordova-camera-roll",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-camera-roll/-/cordova-camera-roll-0.2.1.tgz",
+  "_shasum": "50f2a7712de738a557dee6bd5c05a463edec44ee",
+  "_shrinkwrap": null,
+  "_spec": "cordova-camera-roll",
+  "_where": "/Users/gabrielmonteiro/Documents/apps/myApp",
+  "author": {
+    "name": "Max Lynch"
+  },
+  "bugs": {
+    "url": "https://github.com/lotterfriends/cordova-camera-roll/issues"
+  },
+  "dependencies": {},
+  "description": "The Cordova Camera Roll plugin makes it easy to read from the iOS camera roll.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "50f2a7712de738a557dee6bd5c05a463edec44ee",
+    "tarball": "https://registry.npmjs.org/cordova-camera-roll/-/cordova-camera-roll-0.2.1.tgz"
+  },
+  "gitHead": "4ea16a02c4a438faf0ff67e5c65a464377394630",
+  "homepage": "https://github.com/lotterfriends/cordova-camera-roll#readme",
+  "keywords": [
+    "cordova",
+    "camera",
+    "rolll"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "lotterfriends",
+      "email": "npm@lotterfriends.net"
+    }
+  ],
+  "name": "cordova-camera-roll",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lotterfriends/cordova-camera-roll.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.2.1"
+}

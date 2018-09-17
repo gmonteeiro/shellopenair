@@ -1,0 +1,51 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-console": {
+      "PACKAGE_NAME": "br.com.congressoviagem"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "br.com.congressoviagem"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "br.com.congressoviagem"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "br.com.congressoviagem"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "br.com.congressoviagem"
+    },
+    "ionic-plugin-keyboard": {
+      "PACKAGE_NAME": "br.com.congressoviagem"
+    },
+    "cordova-plugin-camera": {
+      "CAMERA_USAGE_DESCRIPTION": " ",
+      "PHOTOLIBRARY_USAGE_DESCRIPTION": " ",
+      "PACKAGE_NAME": "br.com.congressoviagem"
+    },
+    "com.drifty.cordova.cameraroll": {
+      "PACKAGE_NAME": "br.com.congressoviagem"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "br.com.congressoviagem"
+    },
+    "cordova-plugin-ionic-webview": {
+      "PACKAGE_NAME": "br.com.congressoviagem"
+    },
+    "cordova-plugin-ionic-keyboard": {
+      "PACKAGE_NAME": "br.com.congressoviagem"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "br.com.congressoviagem"
+    }
+  }
+}
